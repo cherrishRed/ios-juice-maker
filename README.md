@@ -1,3 +1,4 @@
+# 🧃 쥬스 메이커 
 >프로젝트 기간 2022.02.21 ~ 2022.03.11
 >
 >팀원 : [@cherrishRed](https://github.com/cherrishRed) [@saafaaari](https://github.com/saafaaari) / 리뷰어 : [@stevenkim18](https://github.com/stevenkim18)
